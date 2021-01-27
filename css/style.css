@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(67deg,rgb(45, 59, 59) 23.1%,rgb(30, 139, 94) 86%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+}
+
+footer{
+    margin: 0%;
+    font-size: 1.1rem;
+}
+
+
+.container{
+    font-size: 1rem;
+}
+
+
+h2{
+    background-color: darkslategrey;
+}
+
+h3{
+    background-color:darkslategrey ;
+}
+h4{
+    background-color:darkslategrey ;
+    font-size: 1.2rem;
+}
